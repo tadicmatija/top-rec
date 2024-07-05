@@ -1,0 +1,82 @@
+body {
+    background-color: antiquewhite;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+
+.heading1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 50px;
+    font-weight: bold;
+    color: #252625;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(143, 128, 111);
+    padding: 5px;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #171817;
+    font-style: italic;
+    font-size: 20px;
+    padding: 5px;
+    margin: 3px;
+    overflow: hidden;
+    font-weight: bold;
+    
+}
+
+a:hover {
+    background-color: rgb(204, 178, 144);
+    padding: 5px;
+    margin: 3px;
+    overflow: hidden;
+    border: #171817 1px solid;
+    border-radius: 18px;
+}
+
+ul {
+    margin-left: 10%;
+}
+
+li {
+    margin: 5px;
+}
+
+ol {
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.heading2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#heading3{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+    margin-top: 20px 0px 20px auto;
+}
+
+#heading4 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#heading5 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
