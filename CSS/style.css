@@ -35,6 +35,8 @@ a:hover {
     overflow: hidden;
     border: #171817 1px solid;
     border-radius: 18px;
+    animation-duration: 2s;
+    overflow: hidden;
 }
 
 ul {
